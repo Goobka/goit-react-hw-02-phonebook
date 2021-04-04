@@ -1,0 +1,15 @@
+.form {
+  margin-bottom: 40px;
+}
+
+.input {
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+.btn {
+  padding: 10px;
+  width: 100px;
+  background-color: #fde31d;
+  border: 1px solid #000;
+}

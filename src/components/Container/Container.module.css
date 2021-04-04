@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  background: rgb(138,180,58);
+  background: linear-gradient(90deg, rgba(138,180,58,1) 0%, rgba(253,227,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+ul {
+  list-style: none;
+}

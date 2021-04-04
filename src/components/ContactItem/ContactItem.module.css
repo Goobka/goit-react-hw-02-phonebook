@@ -1,0 +1,21 @@
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.name {
+  display: inline-block;
+  width: 30%;
+}
+
+.number {
+  display: inline-block;
+  width: 30%;
+}
+
+.btn {
+  margin-left: 10px;
+  padding: 2px;
+  width: 30%;
+  background-color: #fde31d;
+  border: 1px solid #000;
+}
